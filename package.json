@@ -1,0 +1,24 @@
+{
+  "name": "voice-bot",
+  "version": "1.0.0",
+  "description": "A voice bot",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "keywords": [
+    "voice-bot",
+    "claude",
+    "ai",
+    "speech-recognition",
+    "cohere"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
