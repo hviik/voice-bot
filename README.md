@@ -1,8 +1,8 @@
 # Cohere Voice Bot 🎤
 
-A sophisticated voice bot that responds as Cohere AI would, built with modern web technologies and designed for easy deployment on Vercel.
+A sophisticated voice bot that responds as AI would, built with modern web technologies and designed for easy deployment on Vercel.
 
-Note: Used Cohere instead of OpenAI due to the limitations of the free tier with OpenAI.
+Note: Used hardcoded examples instead of OpenAI due to the limitations of the free tier with OpenAI. Can implement OpenAI API.
 
 ## 🚀 Features
 
